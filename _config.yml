@@ -30,8 +30,8 @@ twitter_username: OCKProject
 github_username:  OCKProject
 
 # Build settings
-theme: minimal-mistakes-jekyll
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
+remote_theme           : "mmistakes/minimal-mistakes"
 # minimal_mistakes_skin  : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
